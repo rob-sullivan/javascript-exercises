@@ -30,6 +30,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="server.js" />
+    <Content Include="input.txt" />
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>
